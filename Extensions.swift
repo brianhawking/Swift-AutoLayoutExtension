@@ -1,7 +1,5 @@
 //
 //  Extensions.swift
-//  TwitterClone
-//
 //  Created by Brian Veitch on 12/28/21.
 //
 
